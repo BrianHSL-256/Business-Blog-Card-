@@ -1,0 +1,27 @@
+{
+  "name": "business-blog-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianHSL-256/Business-Blog-Card-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianHSL-256/Business-Blog-Card-/issues"
+  },
+  "homepage": "https://github.com/BrianHSL-256/Business-Blog-Card-#readme",
+  "dependencies": {
+    "tinacms": "^3.8.1"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.3.1",
+    "@types/node": "^25.8.0"
+  }
+}
